@@ -24,6 +24,7 @@ public class Ejemplo2 {
         String nombreAsignatura2;
         double notaAsignatura1;
         double notaAsignatura2;
+        // agregar una nueva variable para nota 3,obtener el promedio de las notas 
         
         System.out.println("Ingrese nombre de asignatura 1");
         nombreAsignatura1 = entrada.nextLine();
