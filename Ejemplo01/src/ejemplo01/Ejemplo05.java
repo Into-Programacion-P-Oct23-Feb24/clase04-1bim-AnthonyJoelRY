@@ -18,8 +18,12 @@ public class Ejemplo05 {
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
         
+        
+        
         /*System.out.println(nombreEstudiante+"\n"+apellidoEstudiante+ "\n"+ 
                 nacimiento);
+        n\ : nos permite dar un salto de linea.
+        t\ : nos permite hacer o dar un espacio estandar.
         
         System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
                 nacimiento);
@@ -29,4 +33,4 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }
-}
+}    
